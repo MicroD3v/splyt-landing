@@ -33,24 +33,29 @@ A high-performance landing page for a caffeinated protein milk brand. This proje
 Get the code running on your machine locally in under two minutes:
 
 1. **Clone the repository:**
+
    ```bash
-   git clone https://github.com
+   git clone https://github.com/MicroD3v/splyt-landing.git
    ```
 
 2. **Navigate into the directory:**
+
    ```bash
-   cd spylt-landing
+   cd splyt-landing
    ```
 
 3. **Install dependencies:**
+
    ```bash
    npm install
    ```
 
 4. **Launch the local Vite server:**
+
    ```bash
    npm run dev
    ```
+
 
 ## 🧠 Technical Takeaways & Performance
 
@@ -59,6 +64,4 @@ Mixing standard web layouts with continuous scroll-tied timelines provided excel
 *   **60 FPS Rendering**: Prioritized hardware-accelerated animations by targeting CSS transforms (`x`, `y`, `scale`) rather than document layout properties like `top` or `left` to keep screen painting smooth.
 *   **Vite 8 Build Speeds**: Leveraged the dedicated `@tailwindcss/vite` plugin for fast hot-module replacement (HMR), keeping timeline state stable while testing motion behaviors.
 
-## 📄 License
 
-This repository is open-source and available under the [MIT License](LICENSE).
