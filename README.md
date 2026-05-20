@@ -2,10 +2,12 @@
 
 A high-performance landing page for a caffeinated protein milk brand. This project focuses on modern web layouts mixed with fluid, scroll-driven motion design and interactive product scaling.
 
-<video src="https://github.com" autoplay loop muted playsinline width="100%"></video>
+<p align="center">
+  <img src="public/videos/spylt-intro.gif" alt="Spylt Animation Preview" width="800px"/>
+</p>
 
 
-![Splyt Animation Preview](public/videos/spylt-intro.gif)
+
 
 
 🎯 **[Check out the live website here](https://splyt-landing-five.vercel.app/)**
